@@ -6,3 +6,7 @@ This application works with the application 'ToggledTransmit' and acts as the re
 
 The expected result is the leds of the mote installed with this application to display a periodically toggled between even and odd binary numbers if the transmitting mote is installed with the application 'ToggledTransmitter'.
 
+
+
+
+08/14/2014 - First upload of the application whihc includes the header, module and configuration files.
